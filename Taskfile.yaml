@@ -10,4 +10,6 @@ tasks:
     - cargo build --release
 
   doc:
-    - RUSTDOCFLAGS="--enable-index-page -Zunstable-options" cargo +nightly doc
+    - RUSTDOCFLAGS="--enable-index-page -Zunstable-options" cargo +nightly doc --target-dir .
+    - rm -rf release
+    - rm -rf debug

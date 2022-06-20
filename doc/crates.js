@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["klo","klokemon","klonder","klostagram","klotube","plumbing"];

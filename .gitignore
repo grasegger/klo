@@ -1,2 +1,7 @@
 /target
+/debug
+/release
+/.rustc_info.json
+/.rustdoc_fingerprint.json
+/doc/.lock
 .DS_Store
