@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+  "klostagram",
+  "klonder",
+  "klotube",
+  "klokemon",
+  "klo",
+  "plumbing"
+]
