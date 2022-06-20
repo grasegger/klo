@@ -13,7 +13,7 @@ little bit sad. And this is what happened with the optimizer from arne too.
 While the application uses modules a lot of times they are not designed to be
 used standalone.
 
-## Taking The Keyboard Optimizing Process
+## Taking The Keyboard Layout Optimizing Process Apart
 
 The way I look at it the project needs to do the following things well:
 
